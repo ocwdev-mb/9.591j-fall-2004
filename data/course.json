@@ -1,0 +1,48 @@
+{
+  "term": "Fall",
+  "year": "2004",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Humanities",
+      "Linguistics"
+    ],
+    [
+      "Science",
+      "Cognitive Science"
+    ]
+  ],
+  "legacy_uid": "a38d4d00-61de-0316-d939-4da25818d5a2",
+  "instructors": {
+    "content": [
+      "eade4902-3743-7f0b-6a59-fe9a2d11e0a6"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "30bcaa01-2fdb-093b-d9e7-a750c77f871d",
+    "website": "9-591j-language-processing-fall-2004"
+  },
+  "course_title": "Language Processing",
+  "course_description": "This course is a seminar in real-time language comprehension. It considers models of sentence and discourse comprehension from the linguistic, psychology, and artificial intelligence literature, including symbolic and connectionist models. Topics include ambiguity resolution and linguistic complexity; the use of lexical, syntactic, semantic, pragmatic, contextual and prosodic information in language comprehension; the relationship between the computational resources available in working memory and the language processing mechanism; and the psychological reality of linguistic representations.\n",
+  "department_numbers": [
+    "9",
+    "24"
+  ],
+  "extra_course_numbers": "24.945J",
+  "primary_course_number": "9.591J",
+  "course_image_thumbnail": {
+    "content": "825e543c-3d5b-a690-a091-41bdbb2fd3c0",
+    "website": "9-591j-language-processing-fall-2004"
+  },
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Presentation Assignments",
+    "Written Assignments"
+  ],
+  "site_uid": "8fdebc8e-ae35-4755-96ed-b7b2a326a243",
+  "site_short_id": "9.591j-fall-2004",
+  "title": "Course Metadata"
+}
